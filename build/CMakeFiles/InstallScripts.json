@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/infl72/Downloads/Bowling/build/cmake_install.cmake",
+		"/home/infl72/Downloads/Bowling/build/test/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

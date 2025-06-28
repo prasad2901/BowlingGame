@@ -1,0 +1,1 @@
+/usr/bin/c++  --coverage -O0 -g -g  --coverage CMakeFiles/BowlingGameTests.dir/test.cpp.o CMakeFiles/BowlingGameTests.dir/__/Frame.cpp.o CMakeFiles/BowlingGameTests.dir/__/Player.cpp.o CMakeFiles/BowlingGameTests.dir/__/BowlingGame.cpp.o -o BowlingGameTests  /usr/local/lib/libgtest_main.a /usr/local/lib/libgtest.a -lpthread

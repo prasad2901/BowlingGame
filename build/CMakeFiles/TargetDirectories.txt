@@ -1,0 +1,8 @@
+/home/infl72/Downloads/Bowling/build/CMakeFiles/BowlingGame.dir
+/home/infl72/Downloads/Bowling/build/CMakeFiles/test.dir
+/home/infl72/Downloads/Bowling/build/CMakeFiles/edit_cache.dir
+/home/infl72/Downloads/Bowling/build/CMakeFiles/rebuild_cache.dir
+/home/infl72/Downloads/Bowling/build/test/CMakeFiles/BowlingGameTests.dir
+/home/infl72/Downloads/Bowling/build/test/CMakeFiles/test.dir
+/home/infl72/Downloads/Bowling/build/test/CMakeFiles/edit_cache.dir
+/home/infl72/Downloads/Bowling/build/test/CMakeFiles/rebuild_cache.dir

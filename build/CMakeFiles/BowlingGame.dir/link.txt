@@ -1,0 +1,1 @@
+/usr/bin/c++  --coverage -O0 -g -g  --coverage CMakeFiles/BowlingGame.dir/main.cpp.o CMakeFiles/BowlingGame.dir/Frame.cpp.o CMakeFiles/BowlingGame.dir/Player.cpp.o CMakeFiles/BowlingGame.dir/BowlingGame.cpp.o -o BowlingGame
